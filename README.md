@@ -13,7 +13,6 @@ I have worked on projects, built scalable applications, and continuously strive 
 
 
 
-
 <br clear="right"/>
 
 ## 🔧 My Tech Stack
